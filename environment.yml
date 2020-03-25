@@ -132,7 +132,13 @@ dependencies:
   - zipp=2.2.0=py_0
   - zlib=1.2.11=h1de35cc_3
   - pip:
+    - branca==0.4.0
+    - chardet==3.0.4
     - colorlover==0.3.0
     - cufflinks==0.17.3
-prefix: /Applications/miniconda3/envs/PDS20
+    - folium==0.10.1
+    - idna==2.9
+    - requests==2.23.0
+    - urllib3==1.25.8
+prefix: /Users/kienscherfp/opt/miniconda3/envs/PDS20
 
