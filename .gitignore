@@ -130,3 +130,5 @@ dmypy.json
 
 # PyCharm
 .idea/
+08_Milestone_Project_LONDON/Data/bike_sharing/journeys.csv
+08_Milestone_Project_LONDON/Data/bike_sharing/stations.csv
