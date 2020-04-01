@@ -9,6 +9,7 @@ dependencies:
   - numpy-base=1.18.1
   - pandas=1.0.3
   - pip=20.0.2
+  - python=3.7.7
   - scikit-learn=0.22.1
   - seaborn=0.10.0
   - setuptools=46.1.1
