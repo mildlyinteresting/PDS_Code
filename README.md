@@ -1,2 +1,2 @@
 # PDS_Code
-Code supplement for course "Programming Data Science"
+Code and notebook supplement for course "Programming Data Science" at U of Cologne
